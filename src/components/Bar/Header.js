@@ -53,27 +53,28 @@ const Header = () => {
       </div>
 
       <nav className='nav__cont'>
-        <ul className='nav'>
-          <Link to='/'>
-            <li className='nav__items '>
-              <i className='fas fa-lightbulb'></i>
-              <p>Notes</p>
-            </li>
-          </Link>
-          <Link to='/archieve'>
-            <li className='nav__items '>
-              <i className='fas fa-archive'></i>
-              <p>Archive</p>
-            </li>
-          </Link>
-          <Link to='/bin'>
-            <li className='nav__items '>
-              <i className='far fa-trash-alt'></i>
-              <p>Bin</p>
-            </li>
-          </Link>
-        </ul>
-      </nav>
+  <ul className='nav'>
+    <Link to='/'>
+      <li className='nav__items '>
+        <i className='fas fa-lightbulb'></i>
+        <p>Notes</p>
+      </li>
+    </Link>
+    <Link to='/archieve'>
+      <li className='nav__items '>
+        <i className='fas fa-archive'></i>
+        <p >Archive</p>
+      </li>
+    </Link>
+    <Link to='/bin'>
+      <li className='nav__items '>
+        <i className='far fa-trash-alt'></i>
+        <p >Bin</p>
+      </li>
+    </Link>
+  </ul>
+</nav>
+
     </div>
   );
 };

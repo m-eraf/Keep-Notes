@@ -17,6 +17,7 @@ const Navigation = () => {
         <Header />
         <Switch>
           <Route exact path='/' render={() => <Notes />} />
+
           <Route exact path='/archieve' render={() => <Archieve />} />
           <Route exact path='/bin' render={() => <Bin />} />
           <Route exact path='/search' render={() => <SearchList />} />
