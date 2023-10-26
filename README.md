@@ -7,7 +7,7 @@ Note-Taking-App allows users to make different kinds of notes. Users can edit, d
 
 ## Preview
 ### [1] Home Page
-![App Screenshot](https://github.com/RitikKumar202/notes-taking-app/blob/master/screenshots/Home.png?raw=true)
+![App Screenshot](https://github.com/m-eraf/Keep-Notes/blob/master/screenshots/Archive_notes.png)
 
 ### [2] Home Page After Notes Added(Pinned & Other Notes)
 ![App Screenshot](https://github.com/RitikKumar202/notes-taking-app/blob/master/screenshots/Pinned&Other_Notes.png?raw=true)
